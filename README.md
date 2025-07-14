@@ -36,7 +36,7 @@ Audio.cpp　、CloudSpeechClient.cpp　、CloudSpeechClient.h　は書き換え�
 
 <br>
 
-補足ですが、AmiVoice API(https://acp.amivoice.com/)でAPI（APP）キーを作る際は下記画像のようにしてください。
+補足ですが、AmiVoice API( https://acp.amivoice.com/ ) でAPI（APP）キーを作る際は下記画像のようにしてください。
 
 <br>
 
