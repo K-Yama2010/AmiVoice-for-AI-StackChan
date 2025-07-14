@@ -16,7 +16,7 @@ Audio.cpp　、CloudSpeechClient.cpp　、CloudSpeechClient.h　は書き換え�
 <br>
 
 
-また、下記画像のようにmain.cpp内を書き換えてください。
+また、下記画像のようにmain.cpp内を書き換え、SDカード内のapikey.txtも3行目はAmiVoiceのAPI（APP）キーに変更してください。
 
 
 （あくまでサンプルとして最小限の例としての変更です。googleSTT,whisperと併用される場合は、Audio.cpp　、CloudSpeechClient.cpp　、CloudSpeechClient.h　の名前は変更し、main.cppもその名前に対応した変更を行ってください。）
