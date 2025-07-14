@@ -19,7 +19,7 @@ Audio.cpp　、CloudSpeechClient.cpp　、CloudSpeechClient.h　は書き換え�
 また、下記画像のようにmain.cpp内を書き換えてください。
 
 
-（以上の変更は、あくまでサンプルとしてですので最小限の変更にて動作するような変更です。googleSTTと併用される場合は、CloudSpeechClient.cpp　、CloudSpeechClient.h　の名前は変更し、main.cppもその名前に対応した変更を行ってください。）
+（あくまでサンプルとして最小限の例としての変更です。googleSTTと併用される場合は、Audio.cpp　、CloudSpeechClient.cpp　、CloudSpeechClient.h　の名前は変更し、main.cppもその名前に対応した変更を行ってください。）
 
 
 <br>
